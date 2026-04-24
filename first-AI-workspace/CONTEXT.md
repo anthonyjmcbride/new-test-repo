@@ -1,7 +1,7 @@
 # Current Project
 
 ## What we are building
-[We are building an Agent focused ]
+Scalable Creative operations
 
 ## What good looks like
 [What does a successful output look like?]
